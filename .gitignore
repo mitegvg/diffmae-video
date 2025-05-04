@@ -1,0 +1,7 @@
+*.mp4
+*.pth
+*.pt
+/output_dir/
+/output_frames/
+/**/__pycache__/
+/model/__pycache__/
